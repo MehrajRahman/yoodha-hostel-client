@@ -1,0 +1,17 @@
+.caret-container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+.up-icon{
+    margin-bottom: -6px;
+}
+.table-head-container{
+    display: flex;
+}
+.up-fill{
+    color: green;
+}
+.down-fill{
+    color: tomato;
+}

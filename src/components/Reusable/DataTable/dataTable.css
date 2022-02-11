@@ -1,0 +1,13 @@
+td {
+  border-bottom: 2px solid #edededa3;
+  padding: 5px;
+}
+.action-btn {
+  color: #311b50;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f26b;
+}
+tr:hover {
+  background-color: #f2f2f2;
+}

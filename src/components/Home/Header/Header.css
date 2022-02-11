@@ -1,0 +1,13 @@
+.header-row{
+    height: 70vh;
+}
+.header{
+    min-height: calc(100vh - 50px);
+    background: linear-gradient(45deg, #030008bb, #04003ace),url('../../../images/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.heading{
+    color: aqua;
+}
